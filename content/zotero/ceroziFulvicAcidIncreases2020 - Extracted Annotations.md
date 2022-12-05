@@ -1,3 +1,7 @@
+---
+title: Aquaponics2
+enableToc: false
+---
 * Mdnotes File Name: [[ceroziFulvicAcidIncreases2020]]
 
 # Extracted Annotations
