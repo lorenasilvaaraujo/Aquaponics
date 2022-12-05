@@ -1,9 +1,12 @@
 ---
-title: 🪴 Quartz 3.
+title: Aquaponics
 enableToc: false
 ---
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+
+Testing out connection to obsidian
+[[/aquaponicswebsite/firstnote]]
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
