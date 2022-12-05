@@ -10,7 +10,8 @@ Testing out connection to obsidian
 
 [[2022-07-31]]
 
-  ![[aquaponics.png]]
+  ![Example Image](/content/aquaponics.png)
+   ![Example Image2](aquaponics.png)
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
