@@ -10,7 +10,8 @@ Testing out connection to obsidian
 
 [[2022-07-31]]
 
-  ![Example Image](/content/aquaponics.png)
+[[example]]
+
    ![Example Image2](aquaponics.png)
 
 1. Extremely fast natural-language [[notes/search]]
