@@ -15,6 +15,8 @@ Testing out connection to obsidian
   test without wikilinks [ceroziFulvicAcidIncreases2020 - Extracted Annotations](ceroziFulvicAcidIncreases2020%20-%20Extracted%20Annotations.md)
   test image without wikilinks [Drawing 2022-08-10 22.45.00.excalidraw](Drawing%202022-08-10%2022.45.00.excalidraw.md)
 
+absolute path [Drawing 2022-07-22 06.03.32.excalidraw](Excalidraw/Drawing%202022-07-22%2006.03.32.excalidraw.md)
+
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
 3. Automatically generated backlinks, link previews, and local graph
