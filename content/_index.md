@@ -8,11 +8,12 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 Testing out connection to obsidian
 [[ceroziFulvicAcidIncreases2020 - Extracted Annotations]]
 
-[[2022-07-31]]
-
-[[example]]
+1. zotero [[zotero/abusinSustainableFoodProduction2020 - Extracted Annotations]]
+2. website[LorenaSA.com](https://lorenasa.com)
 
    ![Example Image2](aquaponics.png)
+  test without wikilinks [ceroziFulvicAcidIncreases2020 - Extracted Annotations](ceroziFulvicAcidIncreases2020%20-%20Extracted%20Annotations.md)
+  test image without wikilinks [Drawing 2022-08-10 22.45.00.excalidraw](Drawing%202022-08-10%2022.45.00.excalidraw.md)
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
