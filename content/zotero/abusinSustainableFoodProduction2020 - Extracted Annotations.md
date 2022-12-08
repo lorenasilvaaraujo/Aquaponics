@@ -36,3 +36,4 @@ investments in research and development ([Abusin and Mandikiana 2020:100353](zot
 forming research alliances both at a regional and international level will helpfill the gaps in knowledge and sharing of researchfindings. In Oman, the collaboration between local institutions and foreign private companies helped launch one of the few large-scale aquaponics systems in the Gulf region. T ([Abusin and Mandikiana 2020:100353](zotero://open-pdf/library/items/Z7JBH3GY?page=5))
 
 potential to create new jobs through backward and forward linkages. For instance, it could lead to the emergence offish feed companies, development of organic farmers markets, and agro-tourism ventures that champion sustainability among current and future generations alike. ([Abusin and Mandikiana 2020:100353](zotero://open-pdf/library/items/Z7JBH3GY?page=5))
+
