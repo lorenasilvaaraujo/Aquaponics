@@ -13,6 +13,29 @@ enableToc: false
 
 Even before I started my PhD I have been researching a lot about aquaponics and adjacent topics, I have ingested over a thousand articles, papers, books and videos. It is always hard to find what you want to find, either because it is bad quality, or it is not open access or even because there is just too much mess. When my reading started getting too messy I figured I needed a system to organize it and came across the concept of digital garden, personal knowledge management (PKM), zettelkasten, Zotero and Obsidian. With this in mind, I started cataloguing my notes and wondered how many other people have done the same, searched for specific literature related to specific topics. I figured I should put it out there so other people can start from a step above what I started. 
 
+# Document Title
+
+The usual [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+does not cover some of the more advanced Markdown tricks, but here
+is one. You can combine verbatim HTML with your Markdown. 
+This is particularly useful for tables.
+Notice that with **empty separating lines** we can use Markdown inside HTML:
+
+<table>
+	<tr>
+		<th>Json 1</th>
+		<th>Markdown</th>
+		</tr>
+		<tr>
+			<td>	  
+			table1
+			</td>
+			<td>	
+			table2	
+			</td>
+	</tr>
+</table>
+
 ## More Info
  
 If you´d like to see more about me you can go visit my personal website [LorenaSA.com](https://lorenasa.com). I also have a [Researchgate](https://www.researchgate.net/profile/Lorena-Silva-Araujo-3) where you can find my publications. 
