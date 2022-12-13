@@ -5,7 +5,7 @@ enableToc: false
 
 # Aquaponics Live Research Archive
 
-Hi! My name is Lorena. Welcome to my digital garden. I am a PhD student at [Wageningen](https://www.wur.nl/en/about-wur.htm) or (<a href="[Wageningen](https://www.wur.nl/en/about-wur.htm)" target="_blank">my link</a>) working on making a tool to calculate the Return of Investment of Aquaponics endeavors. 
+Hi! My name is Lorena. Welcome to my digital garden. I am a PhD student at [Wageningen](https://www.wur.nl/en/about-wur.htm) working on making a tool to calculate the Return of Investment of Aquaponics endeavors. 
 
    ![Aquaponics.dev logo](aquaponics.png)
 
@@ -20,12 +20,16 @@ Even before I started my PhD I have been researching a lot about aquaponics and 
 If you´d like to see more about me you can go visit my personal website [LorenaSA.com](https://lorenasa.com). I also have a [Researchgate](https://www.researchgate.net/profile/Lorena-Silva-Araujo-3) where you can find my publications. 
 
 >📓 My Master Thesis [Viability study of a high technology commercial aquaponics production system in São Paulo, Brazil](https://www.researchgate.net/publication/364368663_Viability_study_of_a_high_technology_commercial_aquaponics_production_system_in_Sao_Paulo_Brazil) 
+
 >📗My first article [Making Aquaponics a Business: A Framework](https://www.mdpi.com/2073-4441/13/21/2978)
+
 > 👷More to come soon...
 
 # Get Started
 > 📚 Example of notes  [[zotero/abusinSustainableFoodProduction2020 - Extracted Annotations]]
+
 > 🔎Use the search to find something specific
+>
 > If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
 
 If you'd like to reach me directly for any collaboration, suggestion, etc, don't hesitate. My email is 📧 lorena.silvaaraujo@wur.nl
