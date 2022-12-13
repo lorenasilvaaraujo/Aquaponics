@@ -22,6 +22,9 @@ status: [[0.seed]]
 Biophysical environments, socio-economic, and political shocks that hamper food production and aﬀect access to food are a treat towards a country's capacity to achieve and maintain food security. Over the past couple of decades, food production at a commercial scale in non-traditional food production environments have been emerging. Among other agricultural systems, the opportunities aquaponics systems present are becoming more apparent. Nonetheless, aquaponics' ability to bring together hydroponics and aquaculture to produce nutritious food has prompted more attention in terms of its economic viability and sustainability. In this paper, we present the reasons why aquaponics might be part of the solution in arid countries with particular focus on the State of Qatar.
 
 
+## Highlights and Annotations
+
+- [[abusinSustainableFoodProduction2020 - Annotations (12132022, 54113 PM)]]
 
 ## My notes
 
