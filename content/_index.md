@@ -3,8 +3,9 @@ title: Aquaponics
 enableToc: false
 ---
 
-|![Aquaponics.dev logo](aquaponics.png)|Hi! My name is **Lorena**. Welcome to my digital garden. I am a PhD student at [Wageningen](https://www.wur.nl/en/about-wur.htm) working on making a tool to calculate the Return of Investment of Aquaponics endeavors.| 
+|![Aquaponics.dev logo](aquaponics.png)|Hi! My name is **Lorena**. Welcome to my digital garden. I am a PhD candidate at [Wageningen](https://www.wur.nl/en/about-wur.htm) working on making a tool to calculate the Return of Investment of Aquaponics endeavors. To do this, a lot of research material has to be read and digested. From fish, to micro-organisms, to plants, passing through finance and modelling.| 
 |--------------|:-----:|
+
 
 
 > [!tip] What is the purpose for this website? 🐟💦🍃🌱
