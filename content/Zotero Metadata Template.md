@@ -2,26 +2,21 @@
 title: "{{title}}"
 tag: "{{tags}}"
 ---
-{{title}}
-
-## Zotero links
-
-{{localLibrary}}
 
 ## Metadata
 
+{{citekey}}
 {{itemType}}
 {{author}}
 {{proceedingsTitle}}
 {{url}}
 {{DOI}}
-{{citekey}}
 {{collections}}
 {{related}}
-{{tags}}, #zotero, #literature-notes, #reference [[0.seed]]
+{{tags}}, #zotero, #literature-notes, #reference 
 {{pdfAttachments}}
+status: [[0.seed]]
 
-test
 
 {{abstractNote}}
 
@@ -30,3 +25,7 @@ test
 ## My notes
 
 -
+
+## Zotero links
+
+{{localLibrary}}
