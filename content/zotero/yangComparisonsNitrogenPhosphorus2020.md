@@ -1,7 +1,6 @@
 ---
 title: "# Comparisons of nitrogen and phosphorus mass balance for tomato-, basil-, and lettuce-based aquaponic and hydroponic systems"
 tag: "* Tags: #⭕, #review, #aquaponics"
-[[0.seed]]
 ---
 
 ## Metadata
