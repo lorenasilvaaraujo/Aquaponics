@@ -3,11 +3,9 @@ title: Aquaponics
 enableToc: false
 ---
 
-# Aquaponics Live Research Archive
-
-Hi! My name is Lorena. Welcome to my digital garden. I am a PhD student at [Wageningen](https://www.wur.nl/en/about-wur.htm) working on making a tool to calculate the Return of Investment of Aquaponics endeavors. 
-
    ![Aquaponics.dev logo](aquaponics.png)
+   
+   Hi! My name is **Lorena**. Welcome to my digital garden. I am a PhD student at [Wageningen](https://www.wur.nl/en/about-wur.htm) working on making a tool to calculate the Return of Investment of Aquaponics endeavors. 
 
 > [!tip] What is the purpose for this website? 🐟💦🍃🌱
 >
@@ -23,7 +21,9 @@ If you´d like to see more about me you can go visit my personal website [Lorena
 
 >📗My first article [Making Aquaponics a Business: A Framework](https://www.mdpi.com/2073-4441/13/21/2978)
 
-> 👷More to come soon...
+> 👷Currently working on [[Review Paper - Literature]]
+
+> More to come soon...
 
 # Get Started
 > 📚 Example of notes  [[zotero/abusinSustainableFoodProduction2020 - Extracted Annotations]]

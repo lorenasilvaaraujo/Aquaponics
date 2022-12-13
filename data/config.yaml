@@ -18,10 +18,9 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Aquaponics Live Research Archive with literature notes and tag categories.
 page_title:
-  "Aquaponics Knowledge Center"
+  "🐟 Aquaponics Live Research🌱"
 links:
   - link_name: Research Gate
     link: https://www.researchgate.net/profile/Lorena-Silva-Araujo-3
