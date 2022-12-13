@@ -21,7 +21,8 @@ html {
 }
 
 .singlePage {
-  padding: 2em 30vw;
+  padding: 2em 2em;
+  width: 90%;
   @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
