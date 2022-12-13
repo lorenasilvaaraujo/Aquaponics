@@ -3,32 +3,15 @@ title: Aquaponics
 enableToc: false
 ---
 
-   ![Aquaponics.dev logo](aquaponics.png)
-   
-   Hi! My name is **Lorena**. Welcome to my digital garden. I am a PhD student at [Wageningen](https://www.wur.nl/en/about-wur.htm) working on making a tool to calculate the Return of Investment of Aquaponics endeavors. 
+|![Aquaponics.dev logo](aquaponics.png)|Hi! My name is **Lorena**. Welcome to my digital garden. I am a PhD student at [Wageningen](https://www.wur.nl/en/about-wur.htm) working on making a tool to calculate the Return of Investment of Aquaponics endeavors.| 
+|--------------|:-----:|
+
 
 > [!tip] What is the purpose for this website? 🐟💦🍃🌱
 >
 >This page is intended to share my notes on aquaponics and its adjacent subjects (which are a lot!). Do not expect a perfect order but a review of my takes on each article I digest, the classifications I deem important for my reasearch and my personal take on the article itself.     !
 
 Even before I started my PhD I have been researching a lot about aquaponics and adjacent topics, I have ingested over a thousand articles, papers, books and videos. It is always hard to find what you want to find, either because it is bad quality, or it is not open access or even because there is just too much mess. When my reading started getting too messy I figured I needed a system to organize it and came across the concept of digital garden, personal knowledge management (PKM), zettelkasten, Zotero and Obsidian. With this in mind, I started cataloguing my notes and wondered how many other people have done the same, searched for specific literature related to specific topics. I figured I should put it out there so other people can start from a step above what I started. 
-
-
-<table>
-	<tr>
-		<td>	  
-		![Aquaponics.dev logo](aquaponics.png)
-		</td>
-		<td>	
-		table2	
-		</td>
-	</tr>
-</table>
-
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Even before I started my PhD I have been researching a lot about aquaponics and adjacent topics, I have ingested over a thousand articles, papers, books and videos. It is always hard to find what you want to find, either because it is bad quality, or it is not open access or even because there is just too much mess. When m  |  1.99 |       ![Aquaponics.dev logo](aquaponics.png) |
-| Bananas      |  1.89 |          6 |
 ## More Info
  
 If you´d like to see more about me you can go visit my personal website [LorenaSA.com](https://lorenasa.com). I also have a [Researchgate](https://www.researchgate.net/profile/Lorena-Silva-Araujo-3) where you can find my publications. 
