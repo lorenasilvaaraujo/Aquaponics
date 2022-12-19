@@ -1,4 +1,4 @@
----  
+
 citekey: {{citekey}}  
 alias: [{% if shortTitle %}"{{shortTitle | safe}}"{% else %}"{{title | safe}}"{% endif %}]  
 title: "{{title}}"  
@@ -6,7 +6,7 @@ authors: {{authors}}
 tags: [{% for t in tags %}{{t.tag}}{% if not loop.last %}, {% endif %}{% endfor %}]  
 year: {{date | format("YYYY")}}  
 publisher: "{{publicationTitle}}"  
----  
+
   
 ## {{title}}  
 >[!info]-  
