@@ -2,6 +2,7 @@
 title: "example"
 tags:
 - setup
+- testing
 weight: 0
 ---
 
