@@ -1,13 +1,25 @@
 # Annotations
 
+---
+title: Sustainable agriculture: Integration of aquaponics at Punta Leona Hotel and Club in Costa Rica
+authors: Cailin Sierra Dyer, Paris Riley Smith
+year: 2018
+---
+tag: #literature
+
+title: Sustainable agriculture: Integration of aquaponics at Punta Leona Hotel and Club in Costa Rica
+authors: 
+URL: 
+Abstract
+
+
+
 ([León-Cañedo et al., 2023, p. 1](zotero://select/library/items/ARMWV3PM)) #region/mexico  
 #plant/basil  
 #fish/shrimp  
 #water/well water  
 #water/Diluted Seawater  
 #nutrient/mercury
-
-“The mass balances evidenced that most Hg (> 99%)” [Go to annotation](zotero://open-pdf/library/items/NBSIB2Z5?page=1&annotation=C9KZTEL4) ([León-Cañedo et al., 2023, p. 1](zotero://select/library/items/ARMWV3PM))
 
 ([León-Cañedo et al., 2023, p. 1](zotero://select/library/items/ARMWV3PM)) testing page 2 [[aquaponics]]
 

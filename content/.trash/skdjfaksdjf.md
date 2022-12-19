@@ -1,0 +1,2 @@
+{{citekey}}
+<p>{{noteContent}}</p>

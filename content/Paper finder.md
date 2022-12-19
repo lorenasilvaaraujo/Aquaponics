@@ -1,0 +1,1 @@
+[Lens Scholarly Search: aquaponics](https://www.lens.org/lens/search/scholar/table?q=aquaponics&p=0&n=50&s=_score&d=%2B&f=false&e=false&l=en&authorField=author&dateFilterField=publishedDate&orderBy=%2B_score&presentation=false&preview=false&stemmed=true&useAuthorId=false&publishedDate.from=2021-12-01&publishedDate.to=2022-12-31)

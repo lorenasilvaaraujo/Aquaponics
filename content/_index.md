@@ -8,7 +8,7 @@ enableToc: false
 
 
 
-> [!tip] What is the purpose for this website? 🐟💦🍃🌱
+> [!info] What is the purpose for this website? 🐟💦🍃🌱
 >
 >This page is intended to share my notes on aquaponics and its adjacent subjects (which are a lot!). Do not expect a perfect order but a review of my takes on each article I digest, the classifications I deem important for my reasearch and my personal take on the article itself.     !
 
