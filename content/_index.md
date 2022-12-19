@@ -31,7 +31,9 @@ If you´d like to see more about me you can go visit my personal website [Lorena
 > 🔎Use the search to find something specific
 >
 > If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-> If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [testing notes](/tags/testing)
+
+test 
+> If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [testing-related notes](/tags/testing).
 
 If you'd like to reach me directly for any collaboration, suggestion, etc, don't hesitate. My email is 📧 lorena.silvaaraujo@wur.nl
 
