@@ -35,6 +35,13 @@ If you´d like to see more about me you can go visit my personal website [Lorena
 test 
 > If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [testing-related notes](/tags/testing).
 
+Metadata
+> If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [Meta-related notes](/tags/Meta).
+
+Unfinished
+> If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [⭕-related notes](/tags/⭕).
+
+
 If you'd like to reach me directly for any collaboration, suggestion, etc, don't hesitate. My email is 📧 lorena.silvaaraujo@wur.nl
 
 
