@@ -10,7 +10,7 @@ tags:
 ## Metadata
  - **Type**: Journal Article
  - **Title**: Mercury in basil (Ocimum basilicum) grown simultaneously with shrimp (Litopenaeus vannamei) by aquaponics, 
- - **Author**: León-Cañedo, Jesús A.; Alarcón-Silvas, Suammy G.; Fierro-Sañudo, Juan F.; Rodríguez-Montes de Oca, Gustavo A.; Fregoso-López, Marcela G.; Páez-Osuna, Federico;  
+ - **Author**: [[León-Cañedo, Jesús A.]]; [[Alarcón-Silvas, Suammy G.]]; [[Fierro-Sañudo, Juan F.]]; [[Rodríguez-Montes de Oca, Gustavo A.]]; [[Fregoso-López, Marcela G.]]; [[Páez-Osuna, Federico]];  
 - **Journal**: Journal of Food Composition and Analysis, 
 - **Volume**: 115,
 - **Pages**: 104929
@@ -54,7 +54,7 @@ Yellow:
 - *“main route of incorporation of Hg in the aquaponic system comes from the input waters (99.4%)”* [(León-Cañedo et al., 2023, p. 8)](zotero://open-pdf/library/items/NBSIB2Z5?page=8&annotation=ND5ZDJNE) 
 - *“the main Hg output route is through the sludge and zeolite of the pots (90.7%). However”* [(León-Cañedo et al., 2023, p. 8)](zotero://open-pdf/library/items/NBSIB2Z5?page=8&annotation=9BYCWI6F) , 
 Red:
-- *“Suggest that basil has a better yield under soilless systems compared to conventional ones.”* [(León-Cañedo et al., 2023, p. 2)](zotero://open-pdf/library/items/NBSIB2Z5?page=2&annotation=GRH4J2AS) 
+- *“uggest that basil has a better yield under soilless systems compared to conventional ones.”* [(León-Cañedo et al., 2023, p. 2)](zotero://open-pdf/library/items/NBSIB2Z5?page=2&annotation=GRH4J2AS) 
 - *“one kg of leaves was obtained in 60 days of growth; Filep et al. (2016)”* [(León-Cañedo et al., 2023, p. 2)](zotero://open-pdf/library/items/NBSIB2Z5?page=2&annotation=4JH3Y5VJ) ,
 Green:
  
@@ -65,14 +65,10 @@ Purple::
 - *“Mercury”* [(León-Cañedo et al., 2023, p. 1)](zotero://open-pdf/library/items/NBSIB2Z5?page=1&annotation=PGJZ6PJE) 
 
 
-
-all the highlights of a certain colour
-
-
-
 ----
 
 ## Comments
+
 
 
 ----

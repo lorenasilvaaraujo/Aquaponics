@@ -36,7 +36,7 @@ test
 > If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [testing-related notes](/tags/testing).
 
 Metadata
-> If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [Meta-related notes](/tags/Meta).
+> If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [Meta-related notes](/tags/Meta/).
 
 Unfinished
 > If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [⭕-related notes](/tags/⭕).
