@@ -1,6 +1,7 @@
 ---
 title: Mercury in basil (Ocimum basilicum) grown simultaneously with shrimp (Litopenaeus vannamei) by aquaponics
 tags:
+- ReviewPaper
 - Meta/Type/Experiment
 - Meta/Region/
 - Meta/Fish/
@@ -105,8 +106,14 @@ Annotations
 
 - *“Plants were firstly washed with purified Milli-Q water to remove impurities.”* [(León-Cañedo et al., 2023, p. 4)](zotero://open-pdf/library/items/NBSIB2Z5?page=4&annotation=A24SMUBA) 
 
+with xml
+```xml
+<img src="leon-canedoMercuryBasilOcimum2023_TCZUUGZG.png" alt="drawing" width="200"/>
+```
 
-<img src="leon-canedoMercuryBasilOcimum2023_TCZUUGZG.png" width="200"/>
+tested
+<img src="leon-canedoMercuryBasilOcimum2023_TCZUUGZG.png" alt="drawing" width="200"/>
+
 
 before this is the html version
  now its the markdown version

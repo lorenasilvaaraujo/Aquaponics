@@ -1,6 +1,7 @@
 ---
 title: Mercury in basil (Ocimum basilicum) grown simultaneously with shrimp (Litopenaeus vannamei) by aquaponics
 tags:
+- ReviewPaper
 - Meta/Type/Experiment
 - Meta/Region/
 - Meta/Fish/
