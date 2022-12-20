@@ -5,7 +5,7 @@
 
 type: 📥
 * Cite key: yepComparingHydroponicAquaponic2020
-* Tags: #⭕, #review, #aquaponics
+* Tags: #⭕, #reviewpaper, #aquaponics
 * Item Type: [[Article]]
 * Authors: [[Brandon Yep]], [[Nigel V. Gale]], [[Youbin Zheng]]
 * Date: [[12/2020]]

@@ -105,6 +105,11 @@ Annotations
 
 - *“Plants were firstly washed with purified Milli-Q water to remove impurities.”* [(León-Cañedo et al., 2023, p. 4)](zotero://open-pdf/library/items/NBSIB2Z5?page=4&annotation=A24SMUBA) 
 
+
+<img src="leon-canedoMercuryBasilOcimum2023_TCZUUGZG.png" width="200"/>
+
+before this is the html version
+ now its the markdown version
 ![test](leon-canedoMercuryBasilOcimum2023_TCZUUGZG.png) [(León-Cañedo et al., 2023, p. 4)](zotero://open-pdf/library/items/NBSIB2Z5?page=4&annotation=FRZ5NUKH)
 
 - *“Remarkably, Cu recorded a higher concentration in the final stage for both treatments, which could be associated with the remineralization of this element from the sludge fraction.”* [(León-Cañedo et al., 2023, p. 5)](zotero://open-pdf/library/items/NBSIB2Z5?page=5&annotation=MEC7AZEF) 

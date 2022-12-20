@@ -21,7 +21,7 @@ If you´d like to see more about me you can go visit my personal website [Lorena
 
 >📗My first article [Making Aquaponics a Business: A Framework](https://www.mdpi.com/2073-4441/13/21/2978)
 
-> 👷Currently working on [[Review Paper - Literature]]
+> 👷Currently working on [Review paper - Comparisons](/tags/reviewpaper).
 
 > More to come soon...
 
