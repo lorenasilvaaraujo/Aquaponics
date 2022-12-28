@@ -1,0 +1,1 @@
+“The recommendation indicates that the concentration of NO3 must be less than 150 mg L-1 because more is toxic for [[fish]]” ([Alcarraz et al., 2018, p. 32](zotero://select/library/items/2J8AIQBB)) ([pdf](zotero://open-pdf/library/items/EZ449CIN?page=2&annotation=HCVWDYVT))

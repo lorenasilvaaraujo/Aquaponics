@@ -1,0 +1,1 @@
+“Estimates suggested that Qatar imported approximately 90% of its food.” ([Abusin and Mandikiana, 2020, p. 2](zotero://select/library/items/9GWBQ4UH)) ([pdf](zotero://open-pdf/library/items/Z7JBH3GY?page=2&annotation=XPJ8GDCP))

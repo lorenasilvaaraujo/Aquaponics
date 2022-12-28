@@ -1,0 +1,1 @@
+“given that aquaponics systems address agricultural waste management, food production using aquaponics systems is ideal in places where there is a cost attached to waste disposal and nutrient emissions” ([Abusin and Mandikiana, 2020, p. 4](zotero://select/library/items/9GWBQ4UH)) ([pdf](zotero://open-pdf/library/items/Z7JBH3GY?page=4&annotation=JAA5Q6ZS))

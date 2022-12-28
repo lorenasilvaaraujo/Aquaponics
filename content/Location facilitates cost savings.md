@@ -1,0 +1,1 @@
+“good location can facilitate cost savings of an aquaponics enterprise when land acquisition costs are low, setting up the system within the vicinity of urban and peri-urban areas.” ([Abusin and Mandikiana, 2020, p. 5](zotero://select/library/items/9GWBQ4UH)) ([pdf](zotero://open-pdf/library/items/Z7JBH3GY?page=5&annotation=GRQ9U6YA))

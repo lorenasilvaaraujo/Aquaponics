@@ -1,1 +1,0 @@
-(León-Cañedo et al., 2023)

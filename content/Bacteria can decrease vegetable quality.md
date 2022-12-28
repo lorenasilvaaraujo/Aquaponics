@@ -1,0 +1,1 @@
+Selma et al. (2012), psychrophilic bacteria can quickly decrease the quality of refrigerated products like vegetables.  ([Alcarraz et al., 2018, p. 34](zotero://select/library/items/2J8AIQBB)) ([pdf](zotero://open-pdf/library/items/EZ449CIN?page=4&annotation=FDFEUDVG))

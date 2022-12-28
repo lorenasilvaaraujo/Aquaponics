@@ -1,0 +1,2 @@
+
+There is a steady development of new technologies with the capacity to improve the [[profitability]] of aquaponics systems” ([Abusin and Mandikiana, 2020, p. 4](zotero://select/library/items/9GWBQ4UH)) ([pdf](zotero://open-pdf/library/items/Z7JBH3GY?page=4&annotation=7BFXVNUJ))

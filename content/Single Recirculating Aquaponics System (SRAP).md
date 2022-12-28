@@ -1,0 +1,1 @@
+“Single Recirculating Aquaponics System (SRAP) (One-loop/ Traditional Aquaponics System).” ([Abusin and Mandikiana, 2020, p. 3](zotero://select/library/items/9GWBQ4UH)) ([pdf](zotero://open-pdf/library/items/Z7JBH3GY?page=3&annotation=A7K3BL3J))

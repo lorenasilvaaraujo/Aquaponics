@@ -1,0 +1,1 @@
+“High concentrations of [[Nitrate]] in leafy vegetables can be also dangerous to the health of consumers.” ([Alcarraz et al., 2018, p. 32](zotero://select/library/items/2J8AIQBB)) ([pdf](zotero://open-pdf/library/items/EZ449CIN?page=2&annotation=PWJSGGYL))
