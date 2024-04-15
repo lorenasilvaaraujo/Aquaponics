@@ -1,1 +1,0 @@
-Celta de Leon Denis

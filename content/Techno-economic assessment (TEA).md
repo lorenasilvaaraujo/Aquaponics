@@ -1,0 +1,1 @@
+**Techno-economic assessment** or techno-economic analysis (abbreviated TEA) is a method of analyzing the economic performance of an industrial process, product, or service. It typically uses software modeling to estimate capital cost, operating cost, and revenue based on technical and financial input parameters.

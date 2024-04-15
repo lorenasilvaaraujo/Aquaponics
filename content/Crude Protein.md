@@ -1,0 +1,1 @@
+The crude protein percentage (CP%) is calculated by **multiplying the nitrogen (N) percent of feed by 6.25**. This is because on average protein contains around 16% Nitrogen (1/0.16 = 6.25). Urea has 287% crude protein: 46% nitrogen multiplied by 6.25 which equals 287% protein.27 de jul. de 2020

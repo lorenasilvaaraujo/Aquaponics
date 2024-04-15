@@ -1,11 +1,14 @@
 ---
-title: # Pacific white shrimp and tomato production using water effluents and salinity-tolerant grafted plants in an integrated aquaponic production system
+title: 
 tags:
-- ReviewPaper
-- Meta/Type/Experiment
-- Meta/Region/Mexico
-- Meta/Fish/Shrimp
-- Meta/Plant/Tomato
+  - ReviewPaper
+  - Meta/Type/Experiment
+  - Meta/Region/Mexico
+  - Meta/Fish/Shrimp
+  - Meta/Plant/Tomato
+enableToc: true
+aliases: 
+type: Article
 ---
 
 # Pacific white shrimp and tomato production using water effluents and salinity-tolerant grafted plants in an integrated aquaponic production system
@@ -34,8 +37,8 @@ zotero_url: * [Local library](zotero://select/items/1_AJLUXAWU)
 >- The four-levels factors were ecotype (three wild tomatoes plus the hybrid) and the [[salinity]] factor (2, 4, 6, and 9 g/L)
 >- Sulfuric acid (H2SO4 at 1 meq/L) was added to adjust the pH to 6 for each treatment
 >- The [[TAN]] (mg/L), [Nitrite (N02)](Nitrite%20(N02))(mg/L), [Nitrate (NO3)](Nitrate%20(NO3)) (mg/L), [[phosphate]] (mg/L), [Alkalinity](Alkalinity)(mg/L of CaCO3), and [Total suspended solids (TSS)](Total%20suspended%20solids%20(TSS)); mg/L were determined weekly following the methods described by Strikland and Parsons (1972) and APHA (1998)
+>- Sulfuric acid (H2SO4 at 1 meq/L) was added to adjust the pH to 6 for each treatment
 
-“Sulfuric acid (H2SO4 at 1 meq/L) was added to adjust the pH to 6 for each treatment.” ([Armenta-Bojórquez et al., 2021, p. 3](zotero://select/library/items/AJLUXAWU)) ([pdf](zotero://open-pdf/library/items/H46QZ6JY?page=3&annotation=F68W8XG5))
 
 
 >## Abstract

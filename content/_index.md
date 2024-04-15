@@ -30,7 +30,7 @@ If you´d like to see more about me you can go visit my personal website [Lorena
 
 > 🔎Use the search to find something specific
 >
-> If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+> If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [ReviewPaper-related notes](/tags/ReviewPaper).
 
 test 
 > If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [testing-related notes](/tags/testing).

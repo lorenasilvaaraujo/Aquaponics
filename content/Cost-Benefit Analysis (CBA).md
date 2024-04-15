@@ -1,0 +1,5 @@
+-   A cost-benefit analysis is the process used to measure the benefits of a decision or taking action minus the costs associated with taking that action.
+-   A cost-benefit analysis involves measurable financial metrics such as revenue earned or costs saved as a result of the decision to pursue a project.
+-   A cost-benefit analysis can also include intangible benefits and costs or effects from a decision such as employees morale and customer satisfaction.
+-   More complex cost-benefit analysis may incorporate sensitivity analysis, discounting of cashflows, and what-if scenario analysis for multiple options.
+-   All else being equal, an analysis that results in more benefits than costs will generally be a favorable project for the company to undertake.
